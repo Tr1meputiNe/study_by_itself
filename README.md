@@ -5,6 +5,6 @@
 >本仓库仅作为分享，并不保证其适用于任何特定用途。
 >请在合法授权的环境下使用。
 >本工具即表示您同意自行承担全部责任，作者对任何由于使用本工具造成的后果概不负责。
->~~欧内盖别把我供出来~~[soyo](study_by_itself/images/soyo.jpeg)
+>~~欧内盖别把我供出来~~[soyo](Tr1meputiNe/study_by_itself/images/soyo.jpeg)
 ***
 ## 常见平台
